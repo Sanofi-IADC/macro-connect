@@ -8,7 +8,7 @@
     "name": "Structurizr Limited",
     "url": "https://structurizr.com"
   },
-  "baseUrl": "https://static.structurizr.com/atlassian-confluence-cloud",
+  "baseUrl": "https://macro-connect.vercel.app",
   "authentication": {
     "type": "none"
   },
