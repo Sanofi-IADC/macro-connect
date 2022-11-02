@@ -35,7 +35,7 @@
           "url": "/img/structurizr-logo-square.png",
           "width": 80
         },
-        "bodyType": "none",
+        "bodyType": "rich-text",
         "documentation": {
           "url": "https://structurizr.com/help/atlassian-confluence"
         },
